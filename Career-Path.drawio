@@ -1,207 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T18:32:50.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JbvUUrOuC60nAZon_6xS" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T18:41:20.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PQqbp2vF8EDpW5UTQw3y" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1400" dy="1981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="2276" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#663300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="CROpD37Ia6d6KTrLA4-Q-0" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="CROpD37Ia6d6KTrLA4-Q-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Starting with Python&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Basics+Intermediate)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="354" y="-1140" width="120" height="70" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Starting with Python&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(Basics+Intermediate)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="351" y="-1159" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-0" target="CROpD37Ia6d6KTrLA4-Q-2" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-0" target="CROpD37Ia6d6KTrLA4-Q-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-0">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-0" target="2RR2EaBtV1_Fj2jo5g-o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-0" value="Make lots of real world projects" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="351" y="-1059" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-2" target="CROpD37Ia6d6KTrLA4-Q-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-2" value="Mastering Python&lt;div&gt;(advanced stuff in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-1059" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="554" y="-1005" as="targetPoint" />
+            <mxPoint x="615" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-0" target="2RR2EaBtV1_Fj2jo5g-o-2">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-4" value="Git and VCS&lt;div&gt;(Understanding how GitHub and Git works)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-969" width="120" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-8" target="CROpD37Ia6d6KTrLA4-Q-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-0" value="Make lots of real world projects" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="354" y="-1040" width="120" height="70" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-8" value="NumPy&lt;div&gt;(Mathematical operations in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-889" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-2" target="CROpD37Ia6d6KTrLA4-Q-4" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-10" target="CROpD37Ia6d6KTrLA4-Q-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-2" value="Mastering Python&lt;div&gt;(advanced stuff in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-1040" width="120" height="70" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-10" value="Pandas&lt;div&gt;(Data Manipulation in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-809" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="614" y="-850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-4" value="Git and VCS&lt;div&gt;(Understanding how GitHub and Git works)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-950" width="120" height="67.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-8" target="CROpD37Ia6d6KTrLA4-Q-10" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-12" target="CROpD37Ia6d6KTrLA4-Q-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-8" value="NumPy&lt;div&gt;(Mathematical operations in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-870" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-12" value="Matplotlib &amp;amp; Seaborn&lt;div&gt;(Data Visualization using Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-729" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-10" target="CROpD37Ia6d6KTrLA4-Q-12" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-14" target="CROpD37Ia6d6KTrLA4-Q-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-10" value="Pandas&lt;div&gt;(Data Manipulation in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-790" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-14" value="Make projects on EDA&lt;div&gt;(Exploratory Data Analysis)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-649" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-12" target="CROpD37Ia6d6KTrLA4-Q-14" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-16" target="CROpD37Ia6d6KTrLA4-Q-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-12" value="Matplotlib &amp;amp; Seaborn&lt;div&gt;(Data Visualization using Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-710" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-16" value="Mathematics for AI&lt;div&gt;(Calculus, Probability and Statistics)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-569" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-14" target="CROpD37Ia6d6KTrLA4-Q-16" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-18" target="CROpD37Ia6d6KTrLA4-Q-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-14" value="Make projects on EDA&lt;div&gt;(Exploratory Data Analysis)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-630" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-18" value="Scikit Learn&lt;div&gt;(Pre-processing &amp;amp; model building in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-489" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-16" target="CROpD37Ia6d6KTrLA4-Q-18" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-20" target="CROpD37Ia6d6KTrLA4-Q-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-16" value="Mathematics for AI&lt;div&gt;(Calculus, Probability and Statistics)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-550" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-20" value="Deployment and API building&lt;div&gt;(Flask, Django and FastAPI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-409" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-18" target="CROpD37Ia6d6KTrLA4-Q-20" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-22" target="CROpD37Ia6d6KTrLA4-Q-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-18" value="Scikit Learn&lt;div&gt;(Pre-processing &amp;amp; model building in Python)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-470" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-22" value="DevOps fundamentals&lt;div&gt;(CI-CD Pipelines &amp;amp; contenarization)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-329" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-20" target="CROpD37Ia6d6KTrLA4-Q-22" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-24" target="CROpD37Ia6d6KTrLA4-Q-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-20" value="Deployment and API building&lt;div&gt;(Flask, Django and FastAPI)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-390" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-24" value="Cloud Computing&lt;div&gt;(AWS or Azure)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-249" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-22" target="CROpD37Ia6d6KTrLA4-Q-24" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-26" target="CROpD37Ia6d6KTrLA4-Q-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-22" value="DevOps fundamentals&lt;div&gt;(CI-CD Pipelines &amp;amp; contenarization)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-24" target="CROpD37Ia6d6KTrLA4-Q-26" edge="1">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-26" target="2RR2EaBtV1_Fj2jo5g-o-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-24" value="Cloud Computing&lt;div&gt;(AWS or Azure)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-230" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-26" value="Make some End-to-end ML projects with deployment" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="551" y="-169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-26" target="CROpD37Ia6d6KTrLA4-Q-28" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-28" target="CROpD37Ia6d6KTrLA4-Q-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-26" target="2RR2EaBtV1_Fj2jo5g-o-12">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-28" value="Deep Learning&lt;div&gt;(Neural Networks &amp;amp; tensorflow)&lt;/div&gt;&lt;div&gt;[C++ and Python]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="37" y="-69" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-30" target="CROpD37Ia6d6KTrLA4-Q-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-26" value="Make some End-to-end ML projects with deployment" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="554" y="-150" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-30" value="Reinforcement learning&lt;div&gt;(Transformers)&lt;/div&gt;&lt;div&gt;[C++ and Python]&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="197" y="-69" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-28" target="CROpD37Ia6d6KTrLA4-Q-30" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-32" target="CROpD37Ia6d6KTrLA4-Q-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-28" value="Deep Learning&lt;div&gt;(Neural Networks &amp;amp; tensorflow)&lt;/div&gt;&lt;div&gt;[C++ and Python]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="-50" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-32" value="Specialization in NLP/CV and Generative AI&lt;div&gt;[C++ and Python]&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="357" y="-69" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-30" target="CROpD37Ia6d6KTrLA4-Q-32" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-34" target="CROpD37Ia6d6KTrLA4-Q-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-30" value="Reinforcement learning&lt;div&gt;(Transformers)&lt;/div&gt;&lt;div&gt;[C++ and Python]&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="-50" width="120" height="60" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-34" value="LLMs and LangChains&lt;div&gt;[C++ and Python]&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="517" y="-69" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-32" target="CROpD37Ia6d6KTrLA4-Q-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-36" value="End to End Neural Networks with deployment&lt;div&gt;(deep learning proj.)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="671" y="-69" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-32" value="Specialization in NLP/CV and Generative AI&lt;div&gt;[C++ and Python]&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="-50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-34" target="CROpD37Ia6d6KTrLA4-Q-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-34" value="LLMs and LangChains&lt;div&gt;[C++ and Python]&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="520" y="-50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-36" value="End to End Neural Networks with deployment&lt;div&gt;(deep learning proj.)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="674" y="-50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-40" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-42" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-44" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="530" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-44" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-48" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-50" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="CROpD37Ia6d6KTrLA4-Q-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CROpD37Ia6d6KTrLA4-Q-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-50" edge="1">
+        <mxCell id="CROpD37Ia6d6KTrLA4-Q-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ynGSEDMVqSB0fi1liUls-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-52" edge="1">
+        <mxCell id="ynGSEDMVqSB0fi1liUls-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CROpD37Ia6d6KTrLA4-Q-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-2" target="2RR2EaBtV1_Fj2jo5g-o-4">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-2" target="2RR2EaBtV1_Fj2jo5g-o-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-2" value="Start Learning C++&lt;div&gt;(Basics and the Syntax)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="-1035" width="120" height="60" as="geometry" />
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-2" value="Start Learning C++&lt;div&gt;(Basics and the Syntax)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="-1054" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-4" target="2RR2EaBtV1_Fj2jo5g-o-6">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-4" target="2RR2EaBtV1_Fj2jo5g-o-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-4" value="Start with DSA and practice lots of coding questions" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="-840" width="120" height="60" as="geometry" />
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-4" value="Start with DSA and practice lots of coding questions" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="-859" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-6" target="2RR2EaBtV1_Fj2jo5g-o-8">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-6" target="2RR2EaBtV1_Fj2jo5g-o-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-6" value="Learning advanced concepts and mastering C++" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="-644" width="120" height="60" as="geometry" />
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-6" value="Learning advanced concepts and mastering C++" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="-663" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-8">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="214.00000000000023" y="-120" as="targetPoint" />
+            <mxPoint x="211" y="-137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-8" target="2RR2EaBtV1_Fj2jo5g-o-16">
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;fillColor=#a0522d;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2RR2EaBtV1_Fj2jo5g-o-8" target="2RR2EaBtV1_Fj2jo5g-o-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-8" value="Start building real world projects and applications with C++" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="-440" width="120" height="60" as="geometry" />
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-8" value="Start building real world projects and applications with C++" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="-459" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-12" value="Integrate C++ and Python together in ML projects" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="-150" width="120" height="60" as="geometry" />
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-12" value="Integrate C++ and Python together in ML projects" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="351" y="-169" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-16" value="Start making projects which involve integration of both C++ and Python" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="-240" width="120" height="60" as="geometry" />
+        <mxCell id="2RR2EaBtV1_Fj2jo5g-o-16" value="Start making projects which involve integration of both C++ and Python" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="151" y="-264" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
